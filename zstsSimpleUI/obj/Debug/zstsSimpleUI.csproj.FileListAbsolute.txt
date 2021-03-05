@@ -1,0 +1,10 @@
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\bin\Debug\zstsSimpleUI.exe.config
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\bin\Debug\zstsSimpleUI.exe
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\bin\Debug\zstsSimpleUI.pdb
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.csprojAssemblyReference.cache
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.Form1.resources
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.Properties.Resources.resources
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.csproj.GenerateResource.cache
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.csproj.CoreCompileInputs.cache
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.exe
+C:\Users\zst\source\repos\zstsSimpleUI\zstsSimpleUI\obj\Debug\zstsSimpleUI.pdb
